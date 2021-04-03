@@ -1,0 +1,26 @@
+https://jsonplaceholder.typicode.com/photos
+
+### Get
+
+GET https://jsonplaceholder.typicode.com/photos
+
+### 
+POST https://jsonplaceholder.typicode.com/photos
+Content-Type: application/json
+
+{
+    "title":"practicaPhotos",
+    "body":"Contenido"
+}
+
+###
+DELETE https://jsonplaceholder.typicode.com/photos/1
+
+###
+PUT https://jsonplaceholder.typicode.com/photos/1
+Content-Type: application/json
+
+{
+    "title":"practicaPhotos",
+    "body":"contenido modificado"
+}

@@ -1,0 +1,21 @@
+/*
+De acuerdo a la imagen relacionada con las carpetas y el código que se presenta DE IGUAL FORMA en las 3 paginas,
+responda:
+
+1). Sí me encuentro en la pagina 2 y quisiera pasar a la pagina 1, teniendo en cuenta que es el mismo código que se
+encuentra en la diapositiva anterior, ¿se puede realizar este proceso?¿si o no?¿porque si se puede y sino se puede
+ como se podría?
+
+ R: Para pasar a la pagina 1, es necesario copiar el codigo en todas las paginas
+
+
+1) Que función cumple la siguiente línea de código, la cual se encuentra en el <Script> ya sea dentro del HTML o en
+ un archivo externo JS if(restore)selObj.selectedIndex(0);
+ 
+R: Sirve para actualizar(restaurar)
+ 
+
+
+ 
+ 
+ */
